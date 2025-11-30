@@ -1,4 +1,5 @@
 Titanic Survival Prediction — Binary Classification ⚓🚢
+
 This project predicts whether a passenger survived the Titanic disaster using classic machine learning techniques.
 
 🔧 Tech Stack
